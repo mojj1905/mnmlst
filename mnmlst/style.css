@@ -1,0 +1,61 @@
+* {
+    box-sizing: 0px;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    overflow-y: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("Background.png");
+}
+
+.col a {
+    margin-top: 15px;
+    padding-left: 30px;
+    text-decoration: none;
+    color: #272727;
+}
+
+#err {
+    margin-top: 15px;
+}
+
+#error i {
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.para {
+    margin-top: 140px;
+    margin-left: 170px;
+}
+
+h6 {
+    cursor: pointer;
+    margin-left: 170px;
+}
+.icon {
+
+
+    margin-top: 350px;
+    margin-left: 40px;
+}
+
+.icon i {
+
+    margin: 2px;
+    color: #2d2d2d;
+    display: inline;
+}
+
+.less {
+    margin-left: 870px;
+}
+.less{
+    font-size: 36px;
+}
+.col .arlington {
+    margin-right: 20px;
+}
